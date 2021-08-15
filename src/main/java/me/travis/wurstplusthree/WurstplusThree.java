@@ -24,6 +24,7 @@ import org.lwjgl.opengl.Display;
 /**
  * @author travis - began work on 8th april 2021
  */
+
 @Mod(modid = WurstplusThree.MODID, name = WurstplusThree.MODNAME, version = WurstplusThree.MODVER)
 public class WurstplusThree {
 
